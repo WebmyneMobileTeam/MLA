@@ -15,10 +15,6 @@ public class LauncherActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_launcher);
 
-      /*  Intent i = new Intent(this,HomeActivity.class);
-        startActivity(i);*/
-
-
     }
 
 }
